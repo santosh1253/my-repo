@@ -1,1 +1,1 @@
-   alpha 
+file data is my_alpha 
